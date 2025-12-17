@@ -1,4 +1,4 @@
-# 👩‍💻 Sevi Rina Pertiwi
+# 👩‍💻 Hai, Saya Rina
 ✨ Information Systems Student | Programmer in Progress 🌱 
 
 ---
