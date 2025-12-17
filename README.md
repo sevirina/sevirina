@@ -14,6 +14,7 @@ I believe that technology is a powerful tool for creating meaningful, impactful,
 ###
 
 <div align="left">
+  <!-- Programming & Web -->
   <img src="https://skillicons.dev/icons?i=py" height="33" alt="python logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
@@ -23,6 +24,15 @@ I believe that technology is a powerful tool for creating meaningful, impactful,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo" />
+
+  <br><br>
+
+  <!-- Office & Data Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftword/microsoftword-original.svg" height="35" alt="microsoft word logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" height="35" alt="microsoft excel logo" />
+  <img width="15" />
+  <img src="https://img.icons8.com/color/48/statistics.png" height="35" alt="spss logo" />
 </div>
 
 ###
@@ -62,9 +72,8 @@ I believe that technology is a powerful tool for creating meaningful, impactful,
 <h3 align="center">My Current Streak🤟</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sevirina&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-
-
+  <img src="https://streak-stats.demolab.com?user=sevirina&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+</div>
 
 ---
 
