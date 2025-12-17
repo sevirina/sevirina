@@ -28,7 +28,6 @@ I believe that technology is a powerful tool for creating meaningful, impactful,
   <img width="12"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="35"/>
   <img width="12"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="35"/>
   <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" width="35"/>
 </div>
 
