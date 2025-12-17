@@ -65,10 +65,10 @@ I believe that technology is a powerful tool for creating meaningful, impactful,
 ###
 
 <h3 align="center">My Current Streak🔥</h3>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sevirina&theme=rose&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sevirina&show_icons=true&theme=rose&border_radius=10" height="170"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sevirina&theme=dracula&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
+</p>
+
 ---
 
 ✨ *Learning step by step, growing with technology, and building meaningful solutions.*
