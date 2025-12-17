@@ -9,43 +9,63 @@ I believe that technology is a powerful tool for creating meaningful, impactful,
 
 ---
 
-## 🛠️ Tech & Skills
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32"/>
-  <img src="https://img.icons8.com/color/48/statistics.png" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32"/>
-  <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" width="32"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="32"/>
-</p>
+<h3 align="left">My Current Skill🤖👇</h3>
 
----
+###
 
-## 🌱 Currently Learning
-- 📌 PHP-based Web Development  
-- 🎨 UI/UX Design using Figma  
-- 📊 Data processing & analysis with SPSS  
-- 💡 Applying information systems to real-world case studies  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="33" alt="python logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo" />
+</div>
 
----
+###
 
-## 🌐 Connect With Me
-<p>
-  <a href="https://instagram.com/sevi.rina">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png"/>
+<h3 align="left">Currently Learning🌱</h3>
+
+<ul>
+  <li>📌 PHP-based Web Development</li>
+  <li>🎨 UI/UX Design using Figma</li>
+  <li>📊 Data processing & analysis with SPSS</li>
+  <li>💡 Applying Information Systems to real-world case studies</li>
+</ul>
+
+###
+
+<h3 align="left">My Social Media👇</h3>
+
+###
+
+<div align="left">
+  <a href="https://instagram.com/sevi.rina" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="33" alt="instagram logo" />
   </a>
-  <a href="https://facebook.com/profile.php?id=XXXXXXXX">
-    <img src="https://img.icons8.com/color/48/facebook-new.png"/>
+  <a href="https://facebook.com/profile.php?id=XXXXXXXX" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="35" height="33" alt="facebook logo" />
   </a>
-  <a href="https://wa.me/628xxxxxxxxxx">
-    <img src="https://img.icons8.com/color/48/whatsapp--v1.png"/>
+  <a href="https://wa.me/628xxxxxxxxxx" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="33" alt="whatsapp logo" />
   </a>
-  <a href="https://www.linkedin.com/in/username_linkedin">
-    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  <a href="https://www.linkedin.com/in/username_linkedin" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="35" height="33" alt="linkedin logo" />
   </a>
-</p>
+</div>
+
+###
+
+<h3 align="center">My Current Streak🤟</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=USERNAME_GITHUB_KAMU&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+</div>
 
 ---
 
