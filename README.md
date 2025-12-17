@@ -6,20 +6,15 @@ I'm an **S1 Information Systems Student** 🎓
 ---
 
 ## 🚀 My Current Skills
-<p>
-  <!-- Programming -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-
-  <!-- Data & Design -->
-  <img src="https://img.icons8.com/color/48/statistics.png" width="40"/> <!-- SPSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-
-  <!-- Microsoft Office -->
-  <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32"/>
+  <img src="https://img.icons8.com/color/48/statistics.png" width="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32"/>
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" width="32"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="32"/>
 </p>
 
 ---
