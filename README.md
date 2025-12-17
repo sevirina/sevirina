@@ -1,4 +1,4 @@
-# Hello World 👋
+# Welcome to My GitHub 👋
 
 Hi 👋, my name is **Sevi Rina Pertiwi**  
 I'm an **S1 Information Systems Student** 🎓  
