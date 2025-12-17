@@ -72,15 +72,9 @@ I believe that technology is a powerful tool for creating meaningful, impactful,
 <h3 align="center">My Current Streak🔥</h3>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=sevirina
-    &theme=dracula
-    &hide_border=false
-    &border_radius=10
-    &date_format=j%20M%5B%20Y%5D"
-    alt="GitHub Streak Stats"
-  />
+  <img src="https://streak-stats.demolab.com?user=sevirina&theme=dracula&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
 </p>
+
 
 
 ---
