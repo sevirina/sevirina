@@ -1,5 +1,5 @@
 # 👩‍💻 Sevi Rina Pertiwi
-✨ Information Systems Student | Future Tech Enthusiast  
+✨ Information Systems Student | Programmer in Progress 🌱 
 
 ---
 
@@ -33,14 +33,27 @@ Saya percaya bahwa teknologi adalah alat untuk menciptakan solusi yang bermanfaa
 
 ## 🌐 Connect With Me
 <p>
+  <!-- Instagram -->
   <a href="https://instagram.com/sevi.rina">
     <img src="https://img.icons8.com/color/48/instagram-new--v1.png"/>
   </a>
 
+  <!-- Facebook -->
   <a href="https://facebook.com/profile.php?id=XXXXXXXX">
     <img src="https://img.icons8.com/color/48/facebook-new.png"/>
   </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/628xxxxxxxxxx">
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/username_linkedin">
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  </a>
 </p>
+
 
 ---
 
