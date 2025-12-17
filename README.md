@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hello World 👋
 
-<!--
-**sevirina/sevirina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, my name is **Sevi Rina Pertiwi**  
+I'm an **S1 Information Systems Student** 🎓  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Current Skills
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  
+  <!-- SPSS -->
+  <img src="https://img.icons8.com/color/48/statistics.png" width="40"/>
+</p>
+
+---
+
+## 📱 My Social Media
+<p>
+  <a href="https://instagram.com/username_instagram">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png"/>
+  </a>
+
+  <a href="https://facebook.com/username_facebook">
+    <img src="https://img.icons8.com/color/48/facebook-new.png"/>
+  </a>
+
+  <a href="https://wa.me/628xxxxxxxxxx">
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png"/>
+  </a>
+
+  <a href="https://www.tiktok.com/@username_tiktok">
+    <img src="https://img.icons8.com/color/48/tiktok--v1.png"/>
+  </a>
+</p>
