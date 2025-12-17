@@ -14,7 +14,6 @@ I believe that technology is a powerful tool for creating meaningful, impactful,
 ###
 
 <div align="left">
-  <!-- Programming & Web -->
   <img src="https://skillicons.dev/icons?i=py" height="33" alt="python logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
@@ -24,10 +23,7 @@ I believe that technology is a powerful tool for creating meaningful, impactful,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo" />
-
-  <br><br>
-
-  <!-- Office & Data Tools -->
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftword/microsoftword-original.svg" height="35" alt="microsoft word logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-original.svg" height="35" alt="microsoft excel logo" />
@@ -74,8 +70,6 @@ I believe that technology is a powerful tool for creating meaningful, impactful,
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sevirina&theme=dracula&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
 </p>
-
-
 
 ---
 
