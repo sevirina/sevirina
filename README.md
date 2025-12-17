@@ -54,7 +54,7 @@ I believe that technology is a powerful tool for creating meaningful, impactful,
   <a href="https://facebook.com/profile.php?id=XXXXXXXX" target="_blank">
     <img src="https://img.icons8.com/color/48/facebook-new.png" width="35" height="33" alt="facebook logo" />
   </a>
-  <a href="https://wa.me/628xxxxxxxxxx" target="_blank">
+  <a href="https://wa.me/+6281368779657" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="33" alt="whatsapp logo" />
   </a>
   <a href="https://www.linkedin.com/in/username_linkedin" target="_blank">
