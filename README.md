@@ -28,19 +28,8 @@ I believe that technology is a powerful tool for creating meaningful, impactful,
   <img width="12"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="35"/>
   <img width="12"/>
-<img src="data:image/svg+xml;utf8,
-<svg xmlns='http://www.w3.org/2000/svg' width='48' height='48' viewBox='0 0 48 48'>
-  <rect x='6' y='26' width='6' height='16' fill='%23f44336'/>
-  <rect x='16' y='20' width='6' height='22' fill='%23ff9800'/>
-  <rect x='26' y='14' width='6' height='28' fill='%234caf50'/>
-  <rect x='36' y='8' width='6' height='34' fill='%232196f3'/>
-  <polyline points='9,24 19,18 29,12 39,6'
-    fill='none' stroke='%23009688' stroke-width='2'/>
-  <circle cx='9' cy='24' r='2' fill='%23f44336'/>
-  <circle cx='19' cy='18' r='2' fill='%23ff9800'/>
-  <circle cx='29' cy='12' r='2' fill='%234caf50'/>
-  <circle cx='39' cy='6' r='2' fill='%232196f3'/>
-</svg>" height="35" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="35"/>
+  <img src="https://img.icons8.com/?size=100&id=undefined&format=png&color=000000" width="35"/>
 </div>
 
 
