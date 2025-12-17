@@ -22,8 +22,10 @@ I believe that technology is a powerful tool for creating meaningful, impactful,
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" />
   <img width="12"/>
-  <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" width="32"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="32"/>
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019--v1.png" width="35"/>
+  <img width="12"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="35"/>
+  <img width="12"/>
   <img src="https://img.icons8.com/color/48/statistics.png" height="35" />
 </div>
 
